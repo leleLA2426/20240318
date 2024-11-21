@@ -3,4 +3,10 @@
 
 int main(void) {
 	printf("testing....\n");
+	printf("testing....\n");
+	printf("testing....\n");
+	printf("testing....\n");
+	printf("testing....\n");
+	printf("testing....\n");
+	printf("testing....\n");
 }
